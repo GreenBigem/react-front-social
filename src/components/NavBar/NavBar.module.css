@@ -1,0 +1,19 @@
+.nav {
+    grid-area: nav;
+    background-color: darkorange;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.15);
+}
+
+
+
+.item a {
+    color: white;
+    text-decoration: none;
+
+}
+
+.item a.active {
+    color: gold;
+}

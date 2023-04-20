@@ -1,3 +1,6 @@
+https://www.youtube.com/watch?v=OtMEWJ-3d18
+32 выпуск с нуля
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
